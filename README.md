@@ -1,6 +1,6 @@
 # How to Create a Discord Bot
 ## Prerequisites
-A Discord Account
+### A Discord Account
 - If you don't have a Discord account, create one [here.](https://discord.com/register)
 ### Create a Discord Server
 1. Log into your Discord Account
@@ -8,6 +8,11 @@ A Discord Account
     - Create My Own -> For me and my friends -> Name the server whatever you want :)
     
 ![Creating a Server](https://cdn.discordapp.com/attachments/1032935015069253664/1033179852615983114/creating_a_server.gif)
+
+## Accessing the code on Repl
+1. Navigate to [this Repl page](https://replit.com/@schari/Purdue-Hackers-Discord-Bot-Workshop#main.py).
+2. Log in to Repl (or create an account if you don't have one).
+3. Fork the Repl.
 
 ## Grab your Discord Token
 Go to https://discord.com/developers/applications
