@@ -7,10 +7,10 @@ from keep_alive import keep_alive
 class PurdueHackersBot(commands.Bot):
     def __init__(self):
         super().__init__(
-            command_prefix=commands.when_mentioned_or(os.getenv("DISCORD_BOT_PREFIX")),
+            command_prefix=commands.when_mentioned_or('!'),
             description='BoilerBot',
             intents=discord.Intents.all(),
-            application_id = int(os.getenv("APPLICATION_ID")))
+            application_id = os.environ['APPLICATION_ID']
         
     async def load_extensions(self) -> None: 
         for filename in os.listdir("bot/cogs"):
@@ -23,5 +23,7 @@ class PurdueHackersBot(commands.Bot):
         await bot.tree.sync()
 
 bot = PurdueHackersBot()
-keep_alive()
-bot.run(os.getenv("DISCORD_BOT_TOKEN"))
+
+# keep_alive()
+
+bot.run(os.environ['BOT_TOKEN'])
