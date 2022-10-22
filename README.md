@@ -21,16 +21,23 @@
 - Call your Bot whatever you'd like :)
 - Accept the Terms of Conditions
 - Settings -> Bot -> Build-a-Bot (Add a Bot)
-- Reset and Copy Token
 
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033185393056682055/BotTokenWithNoToken.gif" alt="get token" width="400"/>
 
+- Reset and Copy Token
+
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033191231557222441/unknown.png" alt="get token" width="400"/>
+
+- Create a new secret on Replit called 'BOT_TOKEN' and paste your bot token there 
+ 
+<img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033199782451236926/unknown.png" alt="create bot token in replit" width = "150"/>
 
 ### Grab your Application ID
 Settings -> General Application -> Application ID (Copy)
 
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033192743964524665/get_app_id.png" alt="get app id" width="400"/>
+
+<img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033203674723389501/unknown.png" alt="create app id in replit" width = "150"/>
 
 ### Invite the Bot to your server
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033198151907147857/invite_to_server.gif" alt="get invite link" width="400"/>
