@@ -32,6 +32,9 @@ Settings -> General Application -> Application ID (Copy)
 
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033192743964524665/get_app_id.png" alt="get app id" width="400"/>
 
+### Invite the Bot
+<img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033198151907147857/invite_to_server.gif" alt="get invite link" width="400"/>
+
 ## Getting to the code
 
 ## Uptime Robot (Optional)
