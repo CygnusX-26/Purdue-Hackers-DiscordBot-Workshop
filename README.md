@@ -28,16 +28,16 @@
 
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033191231557222441/unknown.png" alt="get token" width="400"/>
 
-- Create a new secret on Replit called 'BOT_TOKEN' and paste your bot token 
+- Create a new secret on Replit called `BOT_TOKEN` and paste your bot token 
  
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033199782451236926/unknown.png" alt="create bot token in replit" width = "150"/>
 
 ### Grab your Application ID
-Settings -> General Application -> Application ID (Copy)
+> Settings -> General Application -> ```Application ID``` (Copy)
 
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033192743964524665/get_app_id.png" alt="get app id" width="400"/>
 
-- Create a new secret on Replit called 'APPLICATION_ID' and paste your App ID
+- Create a new secret on Replit called `APPLICATION_ID` and paste your App ID
 
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033203674723389501/unknown.png" alt="create app id in replit" width = "150"/>
 
