@@ -53,7 +53,7 @@ Run the Replit code!
   - COPY THIS LINK
   <img src="https://cdn.discordapp.com/attachments/1028469781420048394/1033209910860709938/Screen_Shot_2022-10-21_at_10.46.38_PM.png" width = 400/>
   
-  - Visit (This Link!)[https://uptimerobot.com/]
+  - Visit [This Link!](https://uptimerobot.com/)
   
   - Make an UptimeRobot account
   
