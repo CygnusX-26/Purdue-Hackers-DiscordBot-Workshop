@@ -11,7 +11,7 @@ class PurdueHackersBot(commands.Bot):
             description='BoilerBot',
             intents=discord.Intents.all(),
             application_id = os.environ['APPLICATION_ID']
-        
+        )
     async def load_extensions(self) -> None: 
         for filename in os.listdir("bot/cogs"):
             if filename.endswith(".py"):
