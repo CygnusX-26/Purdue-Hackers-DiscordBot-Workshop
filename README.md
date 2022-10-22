@@ -16,9 +16,11 @@
 
 ## Discord Developer Portal
 ### Grab your Discord Token
-Go to https://discord.com/developers/applications
-- Add more instructions here
-
+- Go to https://discord.com/developers/applications
+- Applications -> New Application
+- Call your Bot whatever you'd like :)
+- Accept the Terms of Conditions
+- Settings -> Bot ->
 ![Get your token](https://cdn.discordapp.com/attachments/1032935015069253664/1033185393056682055/BotTokenWithNoToken.gif)
 
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033191231557222441/unknown.png" alt="get token" width="400"/>
