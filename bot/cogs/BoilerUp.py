@@ -9,10 +9,14 @@ class BoilerUp(commands.Cog):
         self.bot = bot
 
 
-    #help command
     @app_commands.command(name= 'boiler', description = 'BOILER UP!')
     async def boiler(self, interaction: discord.Interaction) -> None:
-        await interaction.response.send_message("up!")
+        await interaction.response.send_message("up!", ephemeral=True)
+
+    @app_commands.command(name= 'purduehackers', description = '!!!!')
+    async def puhackers(self, interaction: discord.Interaction, text:str, channel: discord.TextChannel) -> None:
+        await interaction.response.send_message(f"!!!! check {channel.name} for {text}", ephemeral=True)
+        await channel.send(text)
 
 
 async def setup(bot: commands.Bot):

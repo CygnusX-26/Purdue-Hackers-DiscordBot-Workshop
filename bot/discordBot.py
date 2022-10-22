@@ -1,6 +1,7 @@
 import discord
 import os
 from discord.ext import commands
+from keep_alive import keep_alive
 
 
 class PurdueHackersBot(commands.Bot):
@@ -22,4 +23,5 @@ class PurdueHackersBot(commands.Bot):
         await bot.tree.sync()
 
 bot = PurdueHackersBot()
+keep_alive()
 bot.run(os.getenv("DISCORD_BOT_TOKEN"))
