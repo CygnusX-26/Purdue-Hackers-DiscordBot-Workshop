@@ -37,6 +37,8 @@ Settings -> General Application -> Application ID (Copy)
 
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033192743964524665/get_app_id.png" alt="get app id" width="400"/>
 
+- Create a new secret on Replit called 'APPLICATION_ID' and paste your App ID
+
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033203674723389501/unknown.png" alt="create app id in replit" width = "150"/>
 
 ### Invite the Bot to your server
