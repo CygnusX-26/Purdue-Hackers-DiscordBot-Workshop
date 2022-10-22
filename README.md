@@ -14,15 +14,18 @@
 2. Log in to Repl (or create an account if you don't have one).
 3. Fork the Repl.
 
-## Grab your Discord Token
-Go to https://discord.com/developers/applications
-- Add more instructions here
-
+## Discord Developer Portal
+### Grab your Discord Token
+- Go to https://discord.com/developers/applications
+- Applications -> New Application
+- Call your Bot whatever you'd like :)
+- Accept the Terms of Conditions
+- Settings -> Bot ->
 ![Get your token](https://cdn.discordapp.com/attachments/1032935015069253664/1033185393056682055/BotTokenWithNoToken.gif)
 
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033191231557222441/unknown.png" alt="get token" width="400"/>
 
-## Grab your Application ID
+### Grab your Application ID
 Settings -> General Application -> Application ID (Copy)
 
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033192743964524665/get_app_id.png" alt="get app id" width="400"/>
