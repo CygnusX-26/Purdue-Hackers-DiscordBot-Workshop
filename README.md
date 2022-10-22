@@ -46,4 +46,6 @@
 
 ## Getting to the code
 
+Run the Replit code!
+
 ## Uptime Robot (Optional)
