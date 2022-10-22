@@ -24,6 +24,7 @@ class PurdueHackersBot(commands.Bot):
 
 bot = PurdueHackersBot()
 
-# keep_alive()
+
+# keep_alive() # uncomment this line if you want to run the bot on repl.it
 
 bot.run(os.environ['BOT_TOKEN'])
