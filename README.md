@@ -7,7 +7,7 @@
 2. In the Discord app, click on the plus symbol on the top left to 'Add a Server'.
     - Create My Own -> For me and my friends -> Name the server whatever you want :)
     
-![Creating a Server](https://cdn.discordapp.com/attachments/1032935015069253664/1033179852615983114/creating_a_server.gif)
+<img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033179852615983114/creating_a_server.gif" alt="creating a server" width="400"/>
 
 ## Accessing the code on Repl
 1. Navigate to [this Repl page](https://replit.com/@schari/Purdue-Hackers-Discord-Bot-Workshop#main.py).
@@ -23,7 +23,7 @@
 - Settings -> Bot -> Build-a-Bot (Add a Bot)
 - Reset and Copy Token
 
-![Get your token](https://cdn.discordapp.com/attachments/1032935015069253664/1033185393056682055/BotTokenWithNoToken.gif)
+<img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033185393056682055/BotTokenWithNoToken.gif" alt="get token" width="400"/>
 
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033191231557222441/unknown.png" alt="get token" width="400"/>
 
