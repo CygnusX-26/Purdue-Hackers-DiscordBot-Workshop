@@ -28,7 +28,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033191231557222441/unknown.png" alt="get token" width="400"/>
 
-- Create a new secret on Replit called 'BOT_TOKEN' and paste your bot token there 
+- Create a new secret on Replit called 'BOT_TOKEN' and paste your bot token 
  
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033199782451236926/unknown.png" alt="create bot token in replit" width = "150"/>
 
