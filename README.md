@@ -10,7 +10,7 @@
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033179852615983114/creating_a_server.gif" alt="creating a server" width="400"/>
 
 ## Accessing the code on Repl
-1. Navigate to [this Repl page](https://replit.com/@schari/Purdue-Hackers-Discord-Bot-Workshop#main.py).
+1. Navigate to [this Repl page](https://replit.com/@schari/Purdue-Hackers-DiscordBot-Workshop#main.py).
 2. Log in to Repl (or create an account if you don't have one).
 3. Fork the Repl.
 
@@ -48,4 +48,21 @@
 
 Run the Replit code!
 
-## Uptime Robot (Optional)
+## Uptime Robot (Optional) (UNRELIABLE/USUALLY NOT A GOOD OPTION)
+ > Want to host your bot for free?
+  - COPY THIS LINK
+  <img src="https://cdn.discordapp.com/attachments/1028469781420048394/1033209910860709938/Screen_Shot_2022-10-21_at_10.46.38_PM.png" width = 400/>
+  
+  - Visit [This Link!](https://uptimerobot.com/)
+  
+  - Make an UptimeRobot account
+  
+  - Go to Dashboard, and click `add new monitor`
+  
+  - In monitor type select `HTTP(s)`
+  
+  - Paste your link into the `URL (or IP) section`
+  
+  - Click Create Monitor
+  
+  - (Click With no alert selected) - dont worry about this
