@@ -9,7 +9,7 @@ class PurdueHackersBot(commands.Bot):
             command_prefix=commands.when_mentioned_or('!'),
             description='BoilerBot',
             intents=discord.Intents.all(),
-            application_id = os.environ['APPLICATION_ID']
+            application_id = os.getenv['APPLICATION_ID']
         )
     async def load_extensions(self) -> None: 
         for filename in os.listdir("cogs"):
@@ -26,4 +26,4 @@ bot = PurdueHackersBot()
 
 # keep_alive() # uncomment this line if you want to run the bot on repl.it
 
-bot.run(os.environ['BOT_TOKEN'])
+bot.run(os.getenv['BOT_TOKEN'])
