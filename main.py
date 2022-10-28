@@ -1,7 +1,6 @@
 import discord
 import os
 from discord.ext import commands
-from keep_alive import keep_alive
 
 
 class PurdueHackersBot(commands.Bot):
@@ -13,7 +12,7 @@ class PurdueHackersBot(commands.Bot):
             application_id = os.environ['APPLICATION_ID']
         )
     async def load_extensions(self) -> None: 
-        for filename in os.listdir("bot/cogs"):
+        for filename in os.listdir("cogs"):
             if filename.endswith(".py"):
                 await self.load_extension(f"cogs.{filename[:-3]}")
 

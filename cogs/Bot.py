@@ -15,11 +15,6 @@ class Bot(commands.Cog):
             status=discord.Status.online,
             activity=discord.Game(f"Put your funny message here!"))
         print('This bot is online!')
-    
-    @commands.Cog.listener()
-    async def on_message(self, message: discord.Message) -> None:
-        if message.author.name == "CygnusX":
-            await message.channel.send("Your message here")
 
     @commands.Cog.listener()
     async def on_reaction_add(self, reaction: discord.Reaction, user: discord.Member) -> None:
