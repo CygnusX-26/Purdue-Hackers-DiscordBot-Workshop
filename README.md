@@ -10,7 +10,7 @@
 <img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033179852615983114/creating_a_server.gif" alt="creating a server" width="400"/>
 
 ## Accessing the code on Repl
-1. Navigate to [this Repl page](https://replit.com/@schari/Purdue-Hackers-DiscordBot-Workshop#main.py).
+1. Navigate to [this Repl page](https://replit.com/@CygnusX/Purdue-Hackers-Discord-Bot-Workshop?v=1).
 2. Log in to Repl (or create an account if you don't have one).
 3. Fork the Repl.
 
