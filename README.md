@@ -1,4 +1,6 @@
-# How to Create a Discord Bot
+# Discord Bot Workshop 
+### NOTE: An extensive and updated version of this README can be found [here](https://puhack.horse/discord-bot-readme)!
+
 ## Prerequisites
 ### A Discord Account
 - If you don't have a Discord account, create one [here.](https://discord.com/register)
@@ -6,8 +8,6 @@
 1. Log into your Discord Account
 2. In the Discord app, click on the plus symbol on the top left to 'Add a Server'.
     - Create My Own -> For me and my friends -> Name the server whatever you want :)
-    
-<img src="https://cdn.discordapp.com/attachments/1032935015069253664/1033179852615983114/creating_a_server.gif" alt="creating a server" width="400"/>
 
 ## Accessing the code on Repl
 1. Navigate to [this Repl page](https://replit.com/@CygnusX/Purdue-Hackers-Discord-Bot-Workshop?v=1).
